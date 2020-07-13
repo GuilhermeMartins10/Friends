@@ -1,0 +1,15 @@
+C:\Friends\backend\src\Friends.Domain\obj\Debug\netcoreapp3.1\Friends.Domain.AssemblyInfoInputs.cache
+C:\Friends\backend\src\Friends.Domain\obj\Debug\netcoreapp3.1\Friends.Domain.AssemblyInfo.cs
+C:\Friends\backend\src\Friends.Domain\bin\Debug\netcoreapp3.1\Friends.Domain.deps.json
+C:\Friends\backend\src\Friends.Domain\bin\Debug\netcoreapp3.1\Friends.Domain.dll
+C:\Friends\backend\src\Friends.Domain\bin\Debug\netcoreapp3.1\Friends.Domain.pdb
+C:\Friends\backend\src\Friends.Domain\obj\Debug\netcoreapp3.1\Friends.Domain.dll
+C:\Friends\backend\src\Friends.Domain\obj\Debug\netcoreapp3.1\Friends.Domain.pdb
+C:\Friends\backend\src\Friends.Domain\obj\Debug\netcoreapp3.1\Friends.Domain.csprojAssemblyReference.cache
+C:\Friends\backend\src\API\Friends.Domain\bin\Debug\netcoreapp3.1\Friends.Domain.deps.json
+C:\Friends\backend\src\API\Friends.Domain\bin\Debug\netcoreapp3.1\Friends.Domain.dll
+C:\Friends\backend\src\API\Friends.Domain\bin\Debug\netcoreapp3.1\Friends.Domain.pdb
+C:\Friends\backend\src\API\Friends.Domain\obj\Debug\netcoreapp3.1\Friends.Domain.AssemblyInfoInputs.cache
+C:\Friends\backend\src\API\Friends.Domain\obj\Debug\netcoreapp3.1\Friends.Domain.AssemblyInfo.cs
+C:\Friends\backend\src\API\Friends.Domain\obj\Debug\netcoreapp3.1\Friends.Domain.dll
+C:\Friends\backend\src\API\Friends.Domain\obj\Debug\netcoreapp3.1\Friends.Domain.pdb
